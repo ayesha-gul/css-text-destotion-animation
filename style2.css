@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+body {
+    
+      background: linear-gradient(to bottom,rgb(36, 104, 131), aliceblue); 
+   background-repeat: no-repeat;
+       height: 100%;
+
+}
+.back {
+  
+}
+.fun {
+    
+    height: 110%;
+    background-color: palevioletred;
+    /* rgb(212,82,103),rgb(197, 79, 99) */
+}
